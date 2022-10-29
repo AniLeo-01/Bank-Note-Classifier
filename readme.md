@@ -31,7 +31,6 @@ Dataset Link: https://archive.ics.uci.edu/ml/datasets/banknote+authentication
  Step 5: Start the streamlit server in a separate terminal
   + ```make run-streamlit```
   
- The whole process is demonstrated in the following gif
  
  ## Contributing
  

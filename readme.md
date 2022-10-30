@@ -31,6 +31,13 @@ Dataset Link: https://archive.ics.uci.edu/ml/datasets/banknote+authentication
  Step 5: Start the streamlit server in a separate terminal
   + ```make run-streamlit```
   
+ ## Demo
+ 
+ <figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="./demo.mp4" type="video/mp4">
+  </video>
+</figure>
  
  ## Contributing
  

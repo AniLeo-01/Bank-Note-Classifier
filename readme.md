@@ -1,5 +1,7 @@
 # Bank Note ML Classifier
 
+
+
 An ML classifier web app to classify bank notes whether they are fake or not.
 
 Dataset Link: https://archive.ics.uci.edu/ml/datasets/banknote+authentication
@@ -33,11 +35,10 @@ Dataset Link: https://archive.ics.uci.edu/ml/datasets/banknote+authentication
   
  ## Demo
  
- <figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="./demo.mp4" type="video/mp4">
-  </video>
-</figure>
+
+https://user-images.githubusercontent.com/32204936/198865173-1ffa5988-3d85-47de-88a4-f5b2c5175d23.mp4
+
+
  
  ## Contributing
  
